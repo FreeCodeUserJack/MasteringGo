@@ -1,2 +1,2 @@
 # MastertingGo
-uemy masterting go programming course repo
+learn go with tests and video series: https://www.youtube.com/watch?v=ryrlfsFbtVA&list=LL&index=1
