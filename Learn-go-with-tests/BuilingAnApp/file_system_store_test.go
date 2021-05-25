@@ -88,10 +88,10 @@ func TestFileSystemStore(t *testing.T) {
 			{"Cleo", 10},
 		}
 
-		assertLeague(t, got, want)
+		AssertLeague(t, got, want)
 
 		got = store.GetLeague()
-		assertLeague(t, got, want)
+		AssertLeague(t, got, want)
 	})
 }
 
